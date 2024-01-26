@@ -2,10 +2,7 @@
 {
     static int a = 100;
     int b = 200;
-    int c = 300;
+    int c = 400;
 
-    static void Main(string[] args)
-    {
-        Console.WriteLine(a);
-    }
+ 
 }
